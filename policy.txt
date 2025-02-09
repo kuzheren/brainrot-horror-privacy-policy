@@ -1,3 +1,68 @@
 Privacy Policy for Brainrot Horror Online
 
 Last Updated: February 9, 2025
+
+Introduction:
+
+Welcome to Brainrot Horror Online. This Privacy Policy is designed to explain how we collect, use, and protect the information provided by our users. The game is developed using the Unity engine and utilizes the Photon PUN (Photon Unity Networking) library for multiplayer functionality. Please read this policy carefully. By using Brainrot Horror Online, you consent to the practices described herein.
+
+1. Information Collection:
+
+Only the minimum necessary data is collected to enable multiplayer functionality:
+- User Nickname: This is chosen by the user and visible to other players during gameplay.
+- Chat Messages: Messages exchanged during gameplay are transmitted to other players but are not stored on servers.
+- Player Actions: Movements and interactions of players are sent to the server to synchronize gameplay with other users.
+
+Additional Details:
+- Photon Servers: Photon PUN handles the transmission of game-related data, which is temporarily stored in RAM and is erased as soon as the player exits the game server.
+- Anonymity: Users are allowed to use any nickname they choose, and there are no restrictions on using anonymous or randomly-generated nicknames.
+
+Unity Engine:
+Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as device identifiers, IP addresses, and operating system details) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
+
+2. Data Use:
+
+The collected data is used solely to provide multiplayer functionality, including:
+- Displaying the chosen nickname to other players.
+- Sending real-time chat messages between players.
+- Synchronizing player actions during the game.
+
+No data is analyzed, stored, or used for any other purposes, such as analytics or advertising.
+
+3. Data Sharing:
+
+We may share data with the following third parties:
+- Photon PUN (Photon Unity Networking): Photon servers handle the real-time transmission of player movements, actions, and chat messages. The Photon privacy policy can be found here: https://dashboard.photonengine.com/account/privacyandcookiepolicy.
+- Unity Technologies: As the game is built using Unity, some technical information may be collected by Unity. Their privacy policy can be found here: https://unity.com/en/legal/privacy-policy.
+
+4. Data Protection:
+
+We take the following steps to protect your data:
+- Temporary Storage: Data is only stored temporarily in Photon servers' RAM and deleted as soon as the player leaves the game server.
+- User Responsibility: Players are advised not to use sensitive or private information (e.g., real names, phone numbers, or email addresses) in nicknames or chat messages.
+
+Note: Game traffic is currently not encrypted, but we plan to implement better security measures, including traffic encryption, in future updates.
+
+5. Moderation and Reporting:
+
+Currently, there are no moderation tools or reporting systems in place. However, we may introduce moderation features in future updates to improve the gameplay environment and address inappropriate behavior. These will be clearly described in an updated version of this Privacy Policy.
+
+6. User Rights:
+
+- As no user data is stored on servers, there is no data to delete or modify upon user request.
+- Users retain full control over the nicknames and messages they choose to share during gameplay.
+
+7. Age Restrictions:
+
+Brainrot Horror Online is not specifically targeted at users under the age of 13. By using the game, you confirm that you are at least 13 years old.
+
+8. Changes to Privacy Policy:
+
+We reserve the right to update this Privacy Policy at any time. Changes will take effect immediately upon publication of the updated policy. We recommend reviewing this policy periodically to stay informed about our data practices.
+
+9. Contact:
+
+For any questions or concerns about this Privacy Policy, please contact us at:
+Email: kuzherendev@gmail.com
+
+By playing Brainrot Horror Online, you agree to this Privacy Policy. If you do not agree, please refrain from using our services.
