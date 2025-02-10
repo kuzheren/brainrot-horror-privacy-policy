@@ -1,6 +1,6 @@
 Privacy Policy for Brainrot Horror Online
 
-Last Updated: February 9, 2025
+Last Updated: February 10, 2025
 
 Introduction:
 
@@ -18,7 +18,7 @@ Additional Details:
 - Anonymity: Users are allowed to use any nickname they choose, and there are no restrictions on using anonymous or randomly-generated nicknames.
 
 Unity Engine:
-Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as device identifiers, IP addresses, and operating system details) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
+Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as crash logs) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
 
 2. Data Use:
 
