@@ -1,45 +1,48 @@
 Privacy Policy for Brainrot Horror Online
 
-Last Updated: February 10, 2025
+Last Updated: February 23, 2025
 
 Introduction:
 
-Welcome to Brainrot Horror Online. This Privacy Policy is designed to explain how we collect, use, and protect the information provided by our users. The game is developed using the Unity engine and utilizes the Photon PUN (Photon Unity Networking) library for multiplayer functionality. Please read this policy carefully. By using Brainrot Horror Online, you consent to the practices described herein.
+Welcome to Brainrot Horror Online. This Privacy Policy is designed to explain how we collect, use, and protect the information provided by our users. The game is developed using the Unity engine and utilizes the Photon PUN (Photon Unity Networking) library for multiplayer functionality. Additionally, Brainrot Horror Online features advertisements and analytics powered by the Appodeal SDK. Please read this policy carefully. By using Brainrot Horror Online, you consent to the practices described herein.
 
 1. Information Collection:
 
-Only the minimum necessary data is collected to enable multiplayer functionality:
+We collect the minimum necessary data to provide our services and improve the user experience:
 - User Nickname: This is chosen by the user and visible to other players during gameplay.
 - Chat Messages: Messages exchanged during gameplay are transmitted to other players but are not stored on servers.
 - Player Actions: Movements and interactions of players are sent to the server to synchronize gameplay with other users.
+- Device Advertising Identifier: Used by the Appodeal SDK to deliver personalized advertisements.
 
 Additional Details:
 - Photon Servers: Photon PUN handles the transmission of game-related data, which is temporarily stored in RAM and is erased as soon as the player exits the game server.
-- Anonymity: Users are allowed to use any nickname they choose, and there are no restrictions on using anonymous or randomly-generated nicknames.
-
-Unity Engine:
-Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as crash logs) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
+- Appodeal SDK: Appodeal collects data to serve advertisements. For more details, please refer to Appodeal's Privacy Policy: https://appodeal.com/privacy-policy.
+- Unity Engine: Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as crash logs) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
 
 2. Data Use:
 
-The collected data is used solely to provide multiplayer functionality, including:
+The collected data is used solely for the following purposes:
 - Displaying the chosen nickname to other players.
 - Sending real-time chat messages between players.
 - Synchronizing player actions during the game.
+- Serving personalized advertisements through the Appodeal SDK.
+- Verifying the game version to ensure users are using the latest version.
 
-No data is analyzed, stored, or used for any other purposes, such as analytics or advertising.
+No data is analyzed, stored, or used for any other purposes, such as analytics not related to advertisements or unauthorized third-party usage.
 
 3. Data Sharing:
 
 We may share data with the following third parties:
 - Photon PUN (Photon Unity Networking): Photon servers handle the real-time transmission of player movements, actions, and chat messages. The Photon privacy policy can be found here: https://dashboard.photonengine.com/account/privacyandcookiepolicy.
 - Unity Technologies: As the game is built using Unity, some technical information may be collected by Unity. Their privacy policy can be found here: https://unity.com/en/legal/privacy-policy.
+- Appodeal SDK: Appodeal may collect device identifiers and other data to serve advertisements. For more details, please refer to Appodeal's Privacy Policy: https://appodeal.com/privacy-policy.
 
 4. Data Protection:
 
 We take the following steps to protect your data:
-- Temporary Storage: Data is only stored temporarily in Photon servers' RAM and deleted as soon as the player leaves the game server.
+- Temporary Storage: Gameplay-related data is only stored temporarily in Photon servers' RAM and deleted as soon as the player leaves the game server.
 - User Responsibility: Players are advised not to use sensitive or private information (e.g., real names, phone numbers, or email addresses) in nicknames or chat messages.
+- Ad Security: Appodeal implements industry-standard security measures to protect user data related to advertisements.
 
 Note: Game traffic is currently not encrypted, but we plan to implement better security measures, including traffic encryption, in future updates.
 
@@ -49,12 +52,13 @@ Currently, there are no moderation tools or reporting systems in place. However,
 
 6. User Rights:
 
-- As no user data is stored on servers, there is no data to delete or modify upon user request.
+- As no gameplay-related user data is stored on servers, there is no data to delete or modify upon user request.
 - Users retain full control over the nicknames and messages they choose to share during gameplay.
+- Regarding advertisements, users may opt-out of personalized ads by adjusting their device settings to reset or disable the advertising identifier.
 
 7. Age Restrictions:
 
-Brainrot Horror Online is not specifically targeted at users under the age of 13. By using the game, you confirm that you are at least 13 years old.
+Brainrot Horror Online is not specifically targeted at users under the age of 13. By using the game, you confirm that you are at least 13 years old. If you are between 13 and 18, you confirm that you have your parent’s or guardian's permission to play the game and consent to its privacy practices.
 
 8. Changes to Privacy Policy:
 
