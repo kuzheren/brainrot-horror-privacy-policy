@@ -1,64 +1,67 @@
 Privacy Policy for Brainrot Horror Online
 
-Last Updated: February 23, 2025
+Last Updated: March 2, 2025
 
 Introduction:
 
-Welcome to Brainrot Horror Online. This Privacy Policy is designed to explain how we collect, use, and protect the information provided by our users. The game is developed using the Unity engine and utilizes the Photon PUN (Photon Unity Networking) library for multiplayer functionality. Additionally, Brainrot Horror Online features advertisements and analytics powered by the Appodeal SDK. Please read this policy carefully. By using Brainrot Horror Online, you consent to the practices described herein.
+Welcome to Brainrot Horror Online. This Privacy Policy explains how we collect, use, and protect user data. The game is developed using the Unity engine and incorporates Photon PUN (Photon Unity Networking) for multiplayer functionality, Appodeal SDK for advertisements, and AppMetrica SDK for analytics. By using Brainrot Horror Online, you agree to the practices described in this policy.
 
 1. Information Collection:
 
-We collect the minimum necessary data to provide our services and improve the user experience:
-- User Nickname: This is chosen by the user and visible to other players during gameplay.
-- Chat Messages: Messages exchanged during gameplay are transmitted to other players but are not stored on servers.
-- Player Actions: Movements and interactions of players are sent to the server to synchronize gameplay with other users.
-- Device Advertising Identifier: Used by the Appodeal SDK to deliver personalized advertisements.
+We collect only the necessary data to provide our services and improve the gaming experience:
+- User Nickname: Visible to other players during gameplay.
+- Chat Messages: Transmitted to other players but not stored on servers.
+- Player Actions: Movements and interactions are sent to the server for real-time synchronization.
+- Device Advertising Identifier: Used by Appodeal SDK to deliver personalized ads.
+- Device Information and Events: Collected via AppMetrica SDK, including device model, operating system version, app version, in-app events (e.g., skin purchases, quest completions). No geolocation data is collected. IP addresses of users in the European Union are anonymized.
 
 Additional Details:
-- Photon Servers: Photon PUN handles the transmission of game-related data, which is temporarily stored in RAM and is erased as soon as the player exits the game server.
-- Appodeal SDK: Appodeal collects data to serve advertisements. For more details, please refer to Appodeal's Privacy Policy: https://appodeal.com/privacy-policy.
-- Unity Engine: Brainrot Horror Online is built using the Unity engine, which may collect additional technical data (such as crash logs) to improve their services. Unity's privacy policy can be found here: https://unity3d.com/en/legal/privacy-policy.
+- Photon Servers: Gameplay-related data is temporarily stored in RAM and deleted when a player leaves the server.
+- Appodeal SDK: Collects data for personalized ads. See their privacy policy at https://appodeal.com/privacy-policy.
+- AppMetrica SDK: Collects device information and in-app events for analytics purposes. Data is stored on Yandex servers. Learn more at https://yandex.ru/legal/metrica_agreement/.
+- Unity Engine: Collects technical data like crash logs to improve game performance. See Unity's privacy policy at https://unity3d.com/en/legal/privacy-policy.
 
 2. Data Use:
 
-The collected data is used solely for the following purposes:
-- Displaying the chosen nickname to other players.
-- Sending real-time chat messages between players.
-- Synchronizing player actions during the game.
-- Serving personalized advertisements through the Appodeal SDK.
-- Verifying the game version to ensure users are using the latest version.
+The collected data is used exclusively for:
+- Displaying user nicknames during gameplay.
+- Synchronizing player actions in real time.
+- Sending chat messages between players.
+- Serving personalized advertisements through Appodeal SDK.
+- Analyzing user behavior via AppMetrica SDK to improve gameplay features and optimize the user experience.
 
-No data is analyzed, stored, or used for any other purposes, such as analytics not related to advertisements or unauthorized third-party usage.
+No data is used for unauthorized purposes or shared with third parties beyond those outlined below.
 
 3. Data Sharing:
 
-We may share data with the following third parties:
-- Photon PUN (Photon Unity Networking): Photon servers handle the real-time transmission of player movements, actions, and chat messages. The Photon privacy policy can be found here: https://dashboard.photonengine.com/account/privacyandcookiepolicy.
-- Unity Technologies: As the game is built using Unity, some technical information may be collected by Unity. Their privacy policy can be found here: https://unity.com/en/legal/privacy-policy.
-- Appodeal SDK: Appodeal may collect device identifiers and other data to serve advertisements. For more details, please refer to Appodeal's Privacy Policy: https://appodeal.com/privacy-policy.
+We share data with the following third-party providers:
+- Photon PUN (Photon Unity Networking): Handles real-time transmission of gameplay data. See their privacy policy at https://dashboard.photonengine.com/account/privacyandcookiepolicy.
+- Unity Technologies: Collects technical information as part of the game engine's functionality. See their privacy policy at https://unity.com/en/legal/privacy-policy.
+- Appodeal SDK: Processes advertising identifiers and related data for personalized ads. See their privacy policy at https://appodeal.com/privacy-policy.
+- AppMetrica SDK (Yandex): Processes device information and in-app event data for analytics purposes. See their privacy policy at https://yandex.ru/legal/metrica_agreement/.
 
 4. Data Protection:
 
-We take the following steps to protect your data:
-- Temporary Storage: Gameplay-related data is only stored temporarily in Photon servers' RAM and deleted as soon as the player leaves the game server.
-- User Responsibility: Players are advised not to use sensitive or private information (e.g., real names, phone numbers, or email addresses) in nicknames or chat messages.
-- Ad Security: Appodeal implements industry-standard security measures to protect user data related to advertisements.
+We implement the following measures to protect user data:
+- Gameplay-related data is stored temporarily in RAM on Photon servers and deleted when a player exits the game server.
+- AppMetrica complies with GDPR requirements, including anonymization of IP addresses for users in the European Union.
+- Industry-standard security measures are applied by Appodeal and Yandex to protect collected data.
 
-Note: Game traffic is currently not encrypted, but we plan to implement better security measures, including traffic encryption, in future updates.
+Note: Game traffic is currently not encrypted, but we plan to implement encryption in future updates.
 
 5. Moderation and Reporting:
 
-Currently, there are no moderation tools or reporting systems in place. However, we may introduce moderation features in future updates to improve the gameplay environment and address inappropriate behavior. These will be clearly described in an updated version of this Privacy Policy.
+At present, there are no moderation tools or reporting systems available. Future updates may include such features, which will be reflected in an updated version of this Privacy Policy.
 
 6. User Rights:
 
-- As no gameplay-related user data is stored on servers, there is no data to delete or modify upon user request.
-- Users retain full control over the nicknames and messages they choose to share during gameplay.
-- Regarding advertisements, users may opt-out of personalized ads by adjusting their device settings to reset or disable the advertising identifier.
+Users retain control over their nicknames and chat messages shared during gameplay. However:
+- Data collected by AppMetrica cannot be deleted or modified upon request.
+- Users can opt out of personalized ads by resetting or disabling their advertising identifiers (GAID or IDFA) in their device settings.
 
 7. Age Restrictions:
 
-Brainrot Horror Online is not specifically targeted at users under the age of 13. By using the game, you confirm that you are at least 13 years old. If you are between 13 and 18, you confirm that you have your parent’s or guardian's permission to play the game and consent to its privacy practices.
+Brainrot Horror Online is not intended for users under 13 years old. By using the game, you confirm that you are at least 13 years old. If you are between 13 and 18 years old, you confirm that you have obtained permission from a parent or guardian to play the game and consent to its privacy practices.
 
 8. Changes to Privacy Policy:
 
@@ -66,7 +69,7 @@ We reserve the right to update this Privacy Policy at any time. Changes will tak
 
 9. Contact:
 
-For any questions or concerns about this Privacy Policy, please contact us at:
+For questions or concerns about this Privacy Policy, please contact us at:
 Email: kuzherendev@gmail.com
 
 By playing Brainrot Horror Online, you agree to this Privacy Policy. If you do not agree, please refrain from using our services.
